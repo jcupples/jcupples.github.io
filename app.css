@@ -46,7 +46,8 @@ p
 
 .row
 {
-    margin-top:0;margin-bottom:0
+    margin-top:0;
+    margin-bottom:0
 }
 
 .navbar
@@ -129,7 +130,8 @@ header .pro
 
 .about-text
 {
-    display:text-align: center;
+    display: inline-block;
+    text-align: center;
     font-weight:500px
 }
 
