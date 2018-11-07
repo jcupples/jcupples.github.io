@@ -23,6 +23,11 @@ p
     text-align:center
 }
 
+
+.redtext 
+{
+    color: red;
+}
 .box
 {
     margin:10px;
